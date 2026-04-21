@@ -14,9 +14,9 @@ plt.rcParams.update({
 })
 
 
-----------------
+# ----------------
 # PROBLEM 1
-----------------
+# ----------------
 
 
 # Natural units
@@ -82,9 +82,9 @@ plt.tight_layout()
 plt.show()
 
 
-----------------
+# ----------------
 # PROBLEM 2
-----------------
+# ----------------
 
 
 def superfluid_density(T, Delta):
