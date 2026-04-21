@@ -103,7 +103,6 @@ plt.xlim(0, 3)
 plt.ylim(0, 5)
 plt.legend(loc='upper right')
 plt.tight_layout()
-# plt.savefig("graphics/3.png", dpi=300)
 plt.show()
 
 print("Done. Saved as graphics/3.png")
